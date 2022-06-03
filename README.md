@@ -1,5 +1,5 @@
 # Hypothesis-testing
-## S07_01
+### S07_T01
 
 This Exercice based on a historic dataset of NBA players.
 
